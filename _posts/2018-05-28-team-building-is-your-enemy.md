@@ -55,7 +55,7 @@ I'm not a doctor and I won't talk about the dangers of alcohol. All people are d
 
 However, I know for sure that it's a really bad idea to drink with your colleagues and, especially, with your boss.
 
-When you are drunk, you, as a rule, start doing stupid things. I was a witness of such things quite often. Your friends can forgive them. Your colleagues and your boss cannot.
+When you are drunk, you, as a rule, start doing [stupid things](https://9gag.com/gag/aKjW8VQ). I was a witness of such things quite often. Your friends can forgive them. Your colleagues and your boss cannot.
 
 They can be relatively innocuous (like once my colleague tore to shreds all the money from his wallet trying to prove that money do not matter). Sometimes, however, they can be really dangerous, at least for your reputation, not to speak about your life.
 
