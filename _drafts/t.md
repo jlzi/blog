@@ -2,6 +2,7 @@ How do you fix an issue?
 
 1. Understand the root cause of the issue
 2. Eliminate the root cause
+
 There is another approach called «Try this and that and hope it will fix the issue», however I wouldn’t recommend using it.
 
 Now, I believe that usually 1 takes much more time and effort that 2. Let's pay more attention to 1.
